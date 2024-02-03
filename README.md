@@ -1,26 +1,24 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Abdelrhaman</h3>
 
-I'm Abdelrhaman Abass a Computer science student and a Backend-Python developer from Egypt. I 'am passionate about coding and learning each day a new things in tech
+I'm Abdelrhaman Abass a Junion Software Engineer FrontEnd and Computer science student from Egypt. I 'am passionate about coding and learning each day new things in tech
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abdelrahman-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-abass/) [![Mail Badge](https://img.shields.io/badge/-abdoabass-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abdoabass400@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Abdlrahman_Abas-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Abdlrahman_Abas) [![Mail Badge](https://img.shields.io/badge/-Facebook-e74c3c?style=flat&labelColor=e74c3c&logo=facebook&logoColor=white)](https://www.facebook.com/abdo.abass.142/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Abdelrahman-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-abass/) [![Mail Badge](https://img.shields.io/badge/-abdoabass-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abdelruhman.abas@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Abdlrahman_Abas-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Abdlrahman_Abas) [![Mail Badge](https://img.shields.io/badge/-Facebook-e74c3c?style=flat&labelColor=e74c3c&logo=facebook&logoColor=white)](https://www.facebook.com/abdo.abass.142/) 
 
 <!-- TODO: Add last video link -->
 
 
 - 🔭 I’m currently working on **Self - Learning**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [Abdelrhman-Abass Portofolio](https://abdelrhman-abass.github.io/Portofolio/)
 
-- 💬 Ask me about **Python - Django - SQL - Html - Css - Js - BootStrap**
+- 💬 Ask me about **Python - Django - SQL - Html - Css - Js - BootStrap - Tailwind - React - Next js**
 
-- 📫 How to reach me **abdoabass400@gmail.com**
+- 📫 How to reach me **abdelruhman.abas@gmail.com**
  
-- ⚡ Fun fact: I play games and go to the GYM very often.
-
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
