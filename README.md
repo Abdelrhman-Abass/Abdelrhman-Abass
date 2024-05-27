@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Abdelrhaman</h3>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Abdelrhuman</h3>
 
-I'm Abdelrhaman Abass a Junion Software Engineer FrontEnd and Computer science student from Egypt. I 'am passionate about coding and learning each day new things in tech
+I'm Abdelrhaman Abass a Junior Software Engineer FrontEnd and Computer science student from Egypt. I 'am passionate about coding and learning each day new things in tech
 
 <h3 align="left">Know me better</h3>
 
