@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abdelruhman.abas@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L2CMUvMsNJz1z_m_dbmCCSj0nkuKTb3V/view?usp=sharing](https://drive.google.com/file/d/1L2CMUvMsNJz1z_m_dbmCCSj0nkuKTb3V/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1pfYusCu8bS4jknbb9XGg7aAXsU1gk6Er/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
